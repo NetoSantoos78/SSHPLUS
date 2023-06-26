@@ -9,4 +9,4 @@ wget https://raw.githubusercontent.com/NetoSantoos78/SSHPLUS/master/senharoot.sh
 
 # Instalar novo Websocket Secury
 
-wget https://raw.githubusercontent.com/NetoSantoos78/SSHPLUS/wssecury.sh && dos2unix wssecury.sh && chmod 777 wssecury.sh && ./wssecury.sh
+wget https://raw.githubusercontent.com/NetoSantoos78/SSHPLUS/master/wssecury.sh && dos2unix wssecury.sh && chmod 777 wssecury.sh && ./wssecury.sh
